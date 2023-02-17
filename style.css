@@ -2,6 +2,10 @@
 .fuentes{
     text-align: justify;
 }
+.fuentes h1{
+    display: flex;
+    align-content: center;
+}
       table {
         font-family: Arial, sans-serif;
         border-collapse: collapse;
